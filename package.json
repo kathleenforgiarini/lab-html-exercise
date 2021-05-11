@@ -1,0 +1,39 @@
+{
+  "name": "lab-html-exercise",
+  "version": "1.0.0",
+  "description": "![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kathleenforgiarini/lab-html-exercise.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "exercise"
+  ],
+  "author": "Kathleen Forgiarini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kathleenforgiarini/lab-html-exercise/issues"
+  },
+  "homepage": "https://github.com/kathleenforgiarini/lab-html-exercise#readme",
+  "dependencies": {
+    "bootstrap": "^3.4.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.14",
+    "del": "^6.0.0",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-minify": "^3.1.0",
+    "gulp-plumber": "^1.2.1",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^4.1.0",
+    "merge-stream": "^2.0.0"
+  }
+}
