@@ -5,3 +5,76 @@ body {
   font-family: 'Poppins';
   margin: 0;
 }
+
+.header__nav {
+  height: 50px;
+  padding: 0 25px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header nav {
+  width: 600px;
+}
+
+.header nav ul {
+  margin: 0;
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header nav a {
+  text-decoration: none;
+  color: black;
+}
+
+.header__form {
+  height: 50px;
+  width: 100%;
+  padding: 0 25px;
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid lightgray;
+}
+
+.header__logo {
+  width: 5em;
+  height: 20px;
+  padding-right: 20px;
+}
+
+.header__input {
+  background-color: #F2F2F2;
+}
+
+.header__input .formulario {
+  width: 75em;
+  display: flex;
+  justify-content: space-between;
+}
+
+.header__input img {
+  height: 20px;
+  width: 20px;
+  margin: 5px;
+}
+
+.header__input input {
+  border: none;
+  background-color: #F2F2F2;
+  outline: unset;
+}
+
+.header__input button {
+  background-color: #FB3E44;
+  border: none;
+  color: white;
+}
+
+.blackHeart {
+  width: 20px;
+  margin-right: 1rem;
+}
